@@ -8,10 +8,11 @@ I had just applied for a job at **Netflix**, and I thought, *"Why not impress th
 
 Originally, this was supposed to be a **generic** data analysis project, but nope! I took a detour, made a U-turn, and **Netflixified™** it. Now, it's all about:  
 
-- 🍿 Finding out which **genres dominate Netflix**  
-- 🎥 Figuring out the **top-rated movies**  
-- ⏳ Tracking how Netflix's content library has **grown over the years**  
-- 📊 Creating **eye-popping visualizations** so we can pretend we're in a data science movie montage  
+- 🍿🔥🔥 Finding out which **genres dominate Netflix**  
+- 🎥🔥🔥🔥 Figuring out the **top-rated movies**  
+- ⏳🔥🔥🔥🔥 Tracking how Netflix's content library has **grown over the years**  
+- 📊 🔥🔥🔥🔥Creating **eye-popping visualizations** so we can pretend we're in a data science movie montage
+- Do I need more flames?? 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 ---
 
